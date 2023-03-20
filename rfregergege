@@ -1,11 +1,10 @@
 local Library = loadstring(game:HttpGet("https://pastebin.com/raw/hYt8sNUU"))() --you can go into the github link and copy all of it and modify it for yourself.
-local Window = Library:CreateWindow("Metrofyy Roblox cheat", Vector2.new(492, 598), Enum.KeyCode.RightShift) --you can change your UI keybind
+local Window = Library:CreateWindow("Metrofyy Premium Menu", Vector2.new(492, 598), Enum.KeyCode.RightShift) --you can change your UI keybind
 local AimingTab = Window:CreateTab("Blatant")
 local Legit = Window:CreateTab("Legit")
 local Visuals = Window:CreateTab("Visuals")
 local Misc = Window:CreateTab("Misc")
 local Universal = Window:CreateTab("everybody")
-local Camlockv = Window:CreateTab("Camlock (L)")
 local Config = Window:CreateTab("Settings")
 
       
